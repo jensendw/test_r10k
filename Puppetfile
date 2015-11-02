@@ -1,4 +1,4 @@
-forge 'forege.puppetlabs.com
+forge 'forge.puppetlabs.com'
 
 moduledir 'forge'
 
